@@ -1,12 +1,12 @@
-<h1 align="center">hey there 👋</h1>
 
 ###
 
 <div align="center">
-  <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl5N2RjdXpvc2RuZm03aG1uaDU3amVvMG5pZjNkeXJiMXk3NTI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
+  <img width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnl3bXNwNXNkc2EwbjRqODlvdGRuNnR6eWJoM2x4cW5ybm8zc2I0cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
 ###
+<h1 align="center">hey there 👋</h1>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
