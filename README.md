@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img width="100%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnl5N2RjdXpvc2RuZm03aG1uaDU3amVvMG5pZjNkeXJiMXk3NTI0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
 </div>
 
 ###
