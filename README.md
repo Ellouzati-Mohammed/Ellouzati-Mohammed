@@ -101,21 +101,10 @@
 </div>
 
 ###
+### 🔥 My Stats
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M/M/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M/M/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M/M/output/pacman-contribution-graph.svg">
-</picture>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ellouzati-Mohammed&show_icons=true&theme=radical)
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=M&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
