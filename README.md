@@ -1,106 +1,121 @@
+# Hi, I'm Mohammed Ellouzati 👋
 
-###
+### Software Engineering & Artificial Intelligence Engineering Student
 
-<div align="center">
-  <img width="80%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcndpbjlvZDV3ZWhoeHNmYTdidTdxb3MzYjdqYmtiaTcwaGl5djRyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"  />
-</div>
+I'm a future engineer passionate about **software development, artificial intelligence, and distributed systems**. I enjoy designing and building practical applications, exploring new technologies, and solving real-world problems through code.
 
-###
-<h1 align="center">hey there 👋</h1>
+- 🎓 Engineering student in **Software Engineering and Artificial Intelligence** at FST Errachidia, Morocco.
+- 💻 Interested in full-stack development, AI-powered applications, and backend engineering.
+- 🤖 Exploring deep learning, NLP, and intelligent monitoring systems.
+- 🐳 Learning containerization and orchestration with Docker and Kubernetes.
+- 🌍 Open to **PFE internships and pre-employment opportunities starting February 2027**.
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🤝 Connect with Me
 
-###
-
-<p align="left">I’m Mohammed Ellouzati, a future engineer in software engineering and artificial intelligence.</p>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mohammed-ellouzati-359873270" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammed-ellouzati-359873270">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-</div>
+  <a href="https://github.com/Ellouzati-Mohammed">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mohammedellouzati047@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
-###
+---
 
-<h3 align="left">🛠 Language and tools</h3>
+## 🛠️ Technical Skills
 
-###
+### Programming Languages
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,javascript,typescript,dart,solidity" alt="Programming languages"/>
+</p>
 
-###
+### Web & Mobile Development
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css,bootstrap,flutter,androidstudio" alt="Web and mobile development"/>
+</p>
 
+### Artificial Intelligence & Data
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI and machine learning"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat&logoColor=white" alt="Rasa"/>
+</p>
+
+### Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" alt="Databases"/>
+</p>
+
+### DevOps & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,ubuntu,vscode,idea,figma" alt="DevOps and development tools"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔍 AIOps Sentinel — HDFS Anomaly Detection
+
+A monitoring system designed to detect anomalous behavior in HDFS logs using deep learning and real-time log processing.
+
+- Developed a REST API with **Python and FastAPI** to integrate anomaly detection.
+- Built a **BiLSTM-based classifier** and integrated log processing with Filebeat and Logstash.
+- Technologies: Python, FastAPI, PyTorch, BiLSTM, HDFS, Elasticsearch, React, TypeScript.
+
+### 🎓 E-Learning Platform
+
+A full-stack learning platform combining course management, educational resources, interactive quizzes, and a conversational chatbot.
+
+- Developed a REST API with **Laravel** and a user interface with **React**.
+- Integrated a **Rasa-based chatbot** using natural language processing techniques.
+- Technologies: Laravel, React, Rasa, Python, MySQL.
+
+🔗 [View Repository](https://github.com/Ellouzati-Mohammed/E-Learning)
+
+### 🧩 Algorithm Explorer
+
+A project focused on exploring algorithms and presenting their behavior through a visual interface.
+
+🔗 [Explore My Repositories](https://github.com/Ellouzati-Mohammed?tab=repositories)
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ellouzati-Mohammed&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellouzati-Mohammed&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ellouzati-Mohammed&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+- Build reliable, maintainable, and scalable software applications.
+- Deepen my knowledge of artificial intelligence and deep learning.
+- Improve my skills in Docker, Kubernetes, and CI/CD.
+- Contribute to meaningful projects and collaborate with other developers.
+
+---
+
+<p align="center">
+  <i>"Building software, exploring AI, and learning something new every day."</i>
+</p>
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and connect with me!
+</p>
