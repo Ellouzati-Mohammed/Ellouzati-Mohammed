@@ -5,9 +5,9 @@
 I'm a future engineer passionate about **software development, artificial intelligence, and distributed systems**. I enjoy designing and building practical applications, exploring new technologies, and solving real-world problems through code.
 
 - 🎓 Engineering student in **Software Engineering and Artificial Intelligence** at FST Errachidia, Morocco.
-- 💻 Interested in full-stack development, AI-powered applications, and backend engineering.
+- 💻 Interested in full-stack development, backend engineering, and AI-powered applications.
 - 🤖 Exploring deep learning, NLP, and intelligent monitoring systems.
-- 🐳 Learning containerization and orchestration with Docker and Kubernetes.
+- 🐳 Learning containerization, orchestration, and CI/CD with Docker, Kubernetes, and GitHub Actions.
 - 🌍 Open to **PFE internships and pre-employment opportunities starting February 2027**.
 
 ### 🤝 Connect with Me
@@ -37,10 +37,10 @@ I'm a future engineer passionate about **software development, artificial intell
 ### Web & Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,html,css,bootstrap,flutter,androidstudio" alt="Web and mobile development"/>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vue,nodejs,laravel,flutter,androidstudio" alt="Web and mobile development"/>
 </p>
 
-### Artificial Intelligence & Data
+### Artificial Intelligence & Machine Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,pytorch" alt="AI and machine learning"/>
@@ -48,45 +48,46 @@ I'm a future engineer passionate about **software development, artificial intell
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat&logoColor=white" alt="Rasa"/>
 </p>
 
-### Databases
+### Databases & Search Engines
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,oracle,elasticsearch" alt="Databases and search engines"/>
+  <img src="https://img.shields.io/badge/SQL-Database-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
-### DevOps & Development Tools
+### Logging, Monitoring & Data Processing
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,ubuntu,vscode,idea,figma" alt="DevOps and development tools"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+  <img src="https://img.shields.io/badge/Logstash-005571?style=flat&logo=logstash&logoColor=white" alt="Logstash"/>
+  <img src="https://img.shields.io/badge/Filebeat-00A9E0?style=flat&logo=elastic&logoColor=white" alt="Filebeat"/>
+  <img src="https://img.shields.io/badge/Kibana-E8478B?style=flat&logo=kibana&logoColor=white" alt="Kibana"/>
+  <img src="https://img.shields.io/badge/HDFS-66CCFF?style=flat&logo=apachehadoop&logoColor=black" alt="HDFS"/>
 </p>
 
----
+### DevOps, Containers & CI/CD
 
-## 🚀 Featured Projects
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,git,github,linux,ubuntu,bash" alt="DevOps and CI/CD"/>
+</p>
 
-### 🔍 AIOps Sentinel — HDFS Anomaly Detection
+### Development Tools & Software Engineering
 
-A monitoring system designed to detect anomalous behavior in HDFS logs using deep learning and real-time log processing.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman" alt="Development tools"/>
+  <img src="https://img.shields.io/badge/UML-Modeling-6A5ACD?style=flat" alt="UML"/>
+  <img src="https://img.shields.io/badge/Scrum-Agile-009FDA?style=flat" alt="Scrum"/>
+</p>
 
-- Developed a REST API with **Python and FastAPI** to integrate anomaly detection.
-- Built a **BiLSTM-based classifier** and integrated log processing with Filebeat and Logstash.
-- Technologies: Python, FastAPI, PyTorch, BiLSTM, HDFS, Elasticsearch, React, TypeScript.
+### Core Competencies
 
-### 🎓 E-Learning Platform
-
-A full-stack learning platform combining course management, educational resources, interactive quizzes, and a conversational chatbot.
-
-- Developed a REST API with **Laravel** and a user interface with **React**.
-- Integrated a **Rasa-based chatbot** using natural language processing techniques.
-- Technologies: Laravel, React, Rasa, Python, MySQL.
-
-🔗 [View Repository](https://github.com/Ellouzati-Mohammed/E-Learning)
-
-### 🧩 Algorithm Explorer
-
-A project focused on exploring algorithms and presenting their behavior through a visual interface.
-
-🔗 [Explore My Repositories](https://github.com/Ellouzati-Mohammed?tab=repositories)
+- **Software Engineering:** Object-Oriented Programming (OOP), Data Structures, Algorithms, Software Design, REST APIs.
+- **Backend Development:** API Design, Server-Side Development, Database Integration.
+- **Frontend Development:** Responsive Interfaces, Component-Based Architecture, TypeScript.
+- **Artificial Intelligence:** Deep Learning, Neural Networks, Natural Language Processing (NLP).
+- **Distributed Systems:** HDFS, Log Processing, Elasticsearch-Based Search and Indexing.
+- **DevOps & Automation:** Docker, Kubernetes, CI/CD Fundamentals, Git-Based Version Control.
+- **Software Development Practices:** Git, Agile/Scrum, UML, Debugging, Testing and Maintainable Code.
 
 ---
 
@@ -100,15 +101,6 @@ A project focused on exploring algorithms and presenting their behavior through 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ellouzati-Mohammed&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </p>
-
----
-
-## 🎯 Current Goals
-
-- Build reliable, maintainable, and scalable software applications.
-- Deepen my knowledge of artificial intelligence and deep learning.
-- Improve my skills in Docker, Kubernetes, and CI/CD.
-- Contribute to meaningful projects and collaborate with other developers.
 
 ---
 
